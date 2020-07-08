@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+RIP Club Penguin
